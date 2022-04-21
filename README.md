@@ -1,5 +1,5 @@
 # Presentación del reto
-Muchas veces comprimir un archivo zip nos ayuda a reducir el tamaño de un archivo, pero en este caso será todo lo contrario. Dentro de este archivo .zip se encuentra la **FLAG** para resolver este reto, pero para poder llegar a ellá deberás **descomprimir (PROFUNDIDAD)** demasiadas veces este archivo. 
+Muchas veces comprimir un archivo zip nos ayuda a reducir el tamaño de un archivo, pero en este caso será todo lo contrario. Dentro de este archivo .zip se encuentra la **FLAG** para resolver este reto, pero para poder llegar a ellá deberás deberás hallar la aguja dentro de un pajar. 
 
 Pista: Utiliza tu lenguaje favorito para hacerlo.
 # Solucionario
